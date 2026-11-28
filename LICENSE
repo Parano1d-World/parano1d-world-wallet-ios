@@ -1,0 +1,25 @@
+Parano1d Wallet — Source-Available Audit License
+Copyright (c) 2026 KoAjent LLC. All rights reserved.
+
+This license covers the Parano1d Wallet application source in this repository
+(App/, WatchApp/, WatchWidgets/, Native/, Node/, Tests/, Scripts/, Docs/,
+PublicEdition/ and the project files). Third-party code under Vendor/ keeps its
+own license (see Vendor/Paramo1d-LICENSE, Vendor/Parano1d-SDK-LICENSE and the
+LICENSE files inside each vendored project).
+
+You may:
+  1. Read, download and build this source to review, audit and test it.
+  2. Run builds you make yourself on your own devices for evaluation.
+  3. Publish security findings, analysis and short excerpts needed to explain
+     them. Responsible disclosure to support@koajent.com before publishing a
+     vulnerability is requested.
+
+You may not, without written permission from KoAjent LLC:
+  1. Distribute this source or builds of it, modified or not, including through
+     any app store or as a competing product.
+  2. Use it, in whole or in part, in another product or service.
+  3. Use the Parano1d Wallet name, icons or other branding.
+
+THE SOURCE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+IN NO EVENT SHALL KOAJENT LLC BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY
+ARISING FROM THE SOURCE OR ITS USE, INCLUDING ANY LOSS OF FUNDS.

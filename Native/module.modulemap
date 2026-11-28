@@ -1,0 +1,4 @@
+module ParanoidCore {
+    header "paranoid_ios.h"
+    export *
+}

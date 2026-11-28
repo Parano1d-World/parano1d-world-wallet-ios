@@ -1,0 +1,6 @@
+{
+  "purpose": "Android system iovec ABI binding; build flags not recorded in the library (no local paths in the app)",
+  "files": {
+    "build.rs": "cefcc5038189f9ecb5e521df429d5c9d0b7c4253897d07782b34c90f840b196d"
+  }
+}

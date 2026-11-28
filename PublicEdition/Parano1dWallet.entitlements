@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- Instant message alerts (opt-in). Xcode sets "production" when exporting for TestFlight and the App Store. -->
+	<!-- The Mining dashboard's pairing QR opens this app from the Camera (website lists this app in its app-link file). -->
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:parano1dworld.com</string>
+	</array>
+	<!-- Shared with the Home Screen and Lock Screen widgets: a small balance and mining summary only. -->
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>group.com.koajent.parano1d.wallet.widgets</string>
+	</array>
+	<key>aps-environment</key>
+	<string>development</string>
+</dict>
+</plist>

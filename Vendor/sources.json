@@ -1,0 +1,14 @@
+{
+  "parano1d": {
+    "url": "https://github.com/ignotusnemo/parano1d.git",
+    "commit": "e6d324ff70fa7d1da9965ba4221ad72c4aebc2e3"
+  },
+  "paramo1d": {
+    "url": "https://github.com/ignotusnemo/paramo1d.git",
+    "commit": "9f171ed91060f3444dedfd3adb5c62f07fe11480"
+  },
+  "parano1d-sdk": {
+    "url": "https://github.com/ignotusnemo/parano1d-sdk.git",
+    "commit": "6ecef54dc40a7eed96be1a5481ed744592928b60"
+  }
+}

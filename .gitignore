@@ -1,0 +1,22 @@
+# Build outputs
+target/
+*.xcframework/
+*.xcodeproj/
+*.xcarchive/
+*.ipa
+*.pkg
+TestResults/
+DerivedData/
+build/
+.build/
+node_modules/
+.DS_Store
+*.log
+# Secrets and signing files must never be committed
+*.p8
+*.p12
+*.jks
+*.keystore
+*.mobileprovision
+*.pem
+.env*

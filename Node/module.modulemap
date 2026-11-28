@@ -1,0 +1,4 @@
+module ParanoidNode {
+    header "paranoid_node.h"
+    export *
+}
